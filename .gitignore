@@ -1,3 +1,4 @@
 bosch-production-line-performance/
 wrangled-sets/
 *.png
+.ipynb_checkpoints/
