@@ -22,7 +22,7 @@ Run notebooks in this order:
 6. ```additional_visualizations_l1_s25.ipynb```
 7. ```additional_visualizations_l3_s32.ipynb```
 
-## references
+## References
 High-Level analysis is on [Medium](https://medium.com/@jesse.gene.peone/napkin-math-with-bosch-23e9aedb0c41?sk=a62251575cae5ef40bdf5638b6c26af4)  
 Analyzing the [Bosch production line perfomance dataset.](https://www.kaggle.com/c/bosch-production-line-performance/overview)
 [Portfolio](https://jpeone.github.io/)
