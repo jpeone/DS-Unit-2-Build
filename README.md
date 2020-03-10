@@ -4,7 +4,7 @@ Companion notebooks to the high-level analysis is on [Medium](https://medium.com
 ## How to read
 ```main_analysis.ipynb``` is the best notebook for an overview. Use the 
 hypothesis testing grid to guide you through the ```wrangle``` notebooks. 
-```aidditional_visualizations``` note books contain some explanatory graphs of
+```additional_visualizations``` note books contain some explanatory graphs of
 a few features.
 
 ## Setting up
@@ -23,6 +23,6 @@ Run notebooks in this order:
 7. ```additional_visualizations_l3_s32.ipynb```
 
 ## References
+[Bosch production line perfomance dataset.](https://www.kaggle.com/c/bosch-production-line-performance/overview)  
 High-Level analysis is on [Medium](https://medium.com/@jesse.gene.peone/napkin-math-with-bosch-23e9aedb0c41?sk=a62251575cae5ef40bdf5638b6c26af4)  
-Analyzing the [Bosch production line perfomance dataset.](https://www.kaggle.com/c/bosch-production-line-performance/overview)
-[Portfolio](https://jpeone.github.io/)
+My [Portfolio](https://jpeone.github.io/)
